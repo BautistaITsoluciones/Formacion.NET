@@ -1,0 +1,15 @@
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\bin\Debug\net10.0\03_Bucles.exe
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\bin\Debug\net10.0\03_Bucles.deps.json
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\bin\Debug\net10.0\03_Bucles.runtimeconfig.json
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\bin\Debug\net10.0\03_Bucles.dll
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\bin\Debug\net10.0\03_Bucles.pdb
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.GeneratedMSBuildEditorConfig.editorconfig
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.AssemblyInfoInputs.cache
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.AssemblyInfo.cs
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.csproj.CoreCompileInputs.cache
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.sourcelink.json
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.dll
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\refint\03_Bucles.dll
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.pdb
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\03_Bucles.genruntimeconfig.cache
+d:\Capacitacion .NET\Formacion.NET\Csharp\CursoCsharp\03_Bucles\obj\Debug\net10.0\ref\03_Bucles.dll

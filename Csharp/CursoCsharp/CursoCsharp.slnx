@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="01_Variables/01_Variables.csproj" />
   <Project Path="02_Condicionales/02_Condicionales.csproj" />
+  <Project Path="03_Bucles/03_Bucles.csproj" />
+  <Project Path="04_Estructuras/04_Estructuras.csproj" />
 </Solution>

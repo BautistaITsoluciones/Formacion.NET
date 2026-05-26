@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\02_Condicionales\\02_Condicionales.csproj": {}
+    "d:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\04_Estructuras\\04_Estructuras.csproj": {}
   },
   "projects": {
-    "D:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\02_Condicionales\\02_Condicionales.csproj": {
+    "d:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\04_Estructuras\\04_Estructuras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\02_Condicionales\\02_Condicionales.csproj",
-        "projectName": "02_Condicionales",
-        "projectPath": "D:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\02_Condicionales\\02_Condicionales.csproj",
+        "projectUniqueName": "d:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\04_Estructuras\\04_Estructuras.csproj",
+        "projectName": "04_Estructuras",
+        "projectPath": "d:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\04_Estructuras\\04_Estructuras.csproj",
         "packagesPath": "C:\\Users\\bauti\\.nuget\\packages\\",
-        "outputPath": "D:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\02_Condicionales\\obj\\",
+        "outputPath": "d:\\Capacitacion .NET\\Formacion.NET\\Csharp\\CursoCsharp\\04_Estructuras\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
