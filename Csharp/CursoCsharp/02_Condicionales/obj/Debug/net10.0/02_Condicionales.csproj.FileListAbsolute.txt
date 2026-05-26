@@ -1,0 +1,15 @@
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\bin\Debug\net10.0\02_Condicionales.exe
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\bin\Debug\net10.0\02_Condicionales.deps.json
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\bin\Debug\net10.0\02_Condicionales.runtimeconfig.json
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\bin\Debug\net10.0\02_Condicionales.dll
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\bin\Debug\net10.0\02_Condicionales.pdb
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.AssemblyInfoInputs.cache
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.AssemblyInfo.cs
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.csproj.CoreCompileInputs.cache
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.sourcelink.json
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.dll
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\refint\02_Condicionales.dll
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.pdb
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\02_Condicionales.genruntimeconfig.cache
+D:\Capacitacion .NET\Formacion.NET\csharp\CursoCsharp\02_Condicionales\obj\Debug\net10.0\ref\02_Condicionales.dll
